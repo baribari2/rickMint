@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
+
+* {
+    font-family: 'Modak', cursive;
+
+}
+
+.minter {
+/* border: 1px solid red; */
+
+    position: relative;
+    width: 100%;
+    margin: 0px;
+    font-size: 40px;
+    color: green;
+    background-color: black;
+    
+}

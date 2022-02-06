@@ -1,0 +1,43 @@
+.mint-button-container {
+    /* border: 1px solid red; */
+
+    position: relative;
+    top: 200px;
+}
+
+.mint-button {
+    background-color: green;
+    padding: 10px 75px;
+    font-size: 40px;
+    border-style: none;
+    border-radius: 10px;
+    color: white;
+    transition: background-color 0.3s;
+
+}
+.mint-button:hover {
+    cursor: pointer;
+    background-color: rgb(2, 170, 2);
+}
+
+.connect-button-container {
+    /* border: 1px solid red; */
+
+    position: relative;
+    top: 300px;
+}
+
+.connect-button {
+
+    color: white;
+    background-color: green;
+    padding: 10px 30px;
+    border-style: none;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+}
+.connect-button:hover {
+
+    cursor: pointer;
+    background-color: rgb(2, 170, 2);    
+}
