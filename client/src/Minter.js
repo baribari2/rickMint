@@ -35,10 +35,10 @@ function Minter() {
             const mintTx = await nftrick.mintRick();
             mintTx.wait();
 
-            console.log({ provider })
-            console.log({ signer })
-            console.log({ nftrick })
-            console.log({ mintTx })
+            // console.log({ provider })
+            // console.log({ signer })
+            // console.log({ nftrick })
+            // console.log({ mintTx })
         }
     }
 
