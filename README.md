@@ -4,4 +4,3 @@ This project demonstrates a basic Hardhat use case. It is a site that allows use
 
 Here's what the site looks like:
 
-![NFT Site](/mintSite.jpg)
