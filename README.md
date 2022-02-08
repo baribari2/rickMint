@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# Basic NFT(ERC721) Minting Site
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates a basic Hardhat use case. It is a site that allows users to mint NFTs on the click of a button. Didn't put too much time into styling, merely wanted to show implementation of ERC721 standards and functionclity with the 'mint' and 'connect' buttons.
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
